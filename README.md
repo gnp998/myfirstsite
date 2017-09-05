@@ -1,0 +1,2 @@
+# myfirstsite
+Hacksu first meeting
